@@ -1,0 +1,203 @@
+{
+  "_cum_se_completeaza": "Fiecare listă are începuturi de cuvinte (fără diacritice sau cu, nu contează). Un vers care conține un cuvânt care începe așa alege acțiunea, efectul sau interacțiunea. Poți adăuga cuvinte noi oricând.",
+  "actiuni": {
+    "sare": [
+      "sar",
+      "sari",
+      "sare",
+      "sarim",
+      "salt",
+      "topai",
+      "top",
+      "tup",
+      "hop",
+      "opa"
+    ],
+    "danseaza": [
+      "dans",
+      "joaca",
+      "joc",
+      "invart",
+      "rotes"
+    ],
+    "palme": [
+      "bat din palm",
+      "bate din palm",
+      "batem din palm",
+      "palmut",
+      "aplaud",
+      "bravo",
+      "clap",
+      "palm",
+      "da din main"
+    ],
+    "merge": [
+      "merg",
+      "pas ",
+      "pasi",
+      "plimb",
+      "fug",
+      "alerg",
+      "pleaca",
+      "pornim",
+      "hai "
+    ],
+    "zboara": [
+      "zbor",
+      "zboar",
+      "falfa",
+      "aripi"
+    ],
+    "pluteste": [
+      "plut",
+      "leagan in vant",
+      "usor ca"
+    ],
+    "leagana": [
+      "leagan",
+      "nani",
+      "somn",
+      "doarme",
+      "dorm",
+      "adoarme",
+      "lin ",
+      "linist",
+      "vis"
+    ],
+    "inclina": [
+      "ascult",
+      "priveste",
+      "uita",
+      "uite",
+      "tresar",
+      "zambe",
+      "rade",
+      "canta"
+    ],
+    "salut": [
+      "salut",
+      "buna",
+      "pa pa",
+      "face cu mana",
+      "bun venit"
+    ]
+  },
+  "efecte": {
+    "Twinkles": [
+      "stea",
+      "stele",
+      "steluț",
+      "stralu",
+      "sclip",
+      "noapte",
+      "luna",
+      "cer instelat"
+    ],
+    "Clouds": [
+      "nor",
+      "cer ",
+      "vant"
+    ],
+    "Balloons": [
+      "balon",
+      "baloane",
+      "petrecere",
+      "zi de nastere"
+    ],
+    "Flowers": [
+      "floare",
+      "flori",
+      "gradin",
+      "luncă",
+      "lunca",
+      "primavar"
+    ],
+    "Lights": [
+      "lumin",
+      "vis",
+      "magie",
+      "magic",
+      "sclipici"
+    ]
+  },
+  "interactiuni": {
+    "apropie": [
+      "langa",
+      "aproape",
+      "vine la",
+      "vin la",
+      "la el",
+      "la ea",
+      "prieten",
+      "imbratis"
+    ],
+    "imita": [
+      "la fel",
+      "ca el",
+      "ca ea",
+      "dupa el",
+      "dupa ea",
+      "toti",
+      "cu totii",
+      "impreuna"
+    ],
+    "danseaza_impreuna": [
+      "dansam",
+      "dansati",
+      "dansam impreuna",
+      "hora",
+      "de mana"
+    ]
+  },
+  "intrari": [
+    "apar",
+    "vine",
+    "vin ",
+    "intra",
+    "sosesc",
+    "soseste",
+    "iata"
+  ],
+  "implicit": {
+    "personaj": [
+      "danseaza",
+      "leagana",
+      "inclina"
+    ],
+    "animal": [
+      "leagana",
+      "sare",
+      "inclina"
+    ],
+    "om": [
+      "danseaza",
+      "leagana",
+      "inclina",
+      "palme"
+    ],
+    "obiect": [
+      "leagana",
+      "inclina"
+    ],
+    "zburator": [
+      "zboara",
+      "pluteste"
+    ]
+  },
+  "zburator": [
+    "zboara",
+    "pluteste",
+    "sare",
+    "inclina",
+    "salut"
+  ],
+  "pe_sol": [
+    "sare",
+    "danseaza",
+    "merge",
+    "leagana",
+    "inclina",
+    "salut",
+    "palme"
+  ]
+}

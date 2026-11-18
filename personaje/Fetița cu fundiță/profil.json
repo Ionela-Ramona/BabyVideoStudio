@@ -1,0 +1,20 @@
+{
+  "name": "Fetița cu fundiță",
+  "image": "Cheerful Toddler in Pink Polka-Dot Bow.png",
+  "mouth": [],
+  "eyes": [],
+  "variants": {},
+  "kind": "om",
+  "flying": false,
+  "names": [
+    "fetit",
+    "mititic",
+    "fata"
+  ],
+  "size": 0.68,
+  "looks": {
+    "palme_deschise": "palme_deschise - Cheerful Girl Clapping in Pink Outfit.png",
+    "palme": "palme - Joyful Clapping Girl in Pink.png"
+  },
+  "rig": {}
+}

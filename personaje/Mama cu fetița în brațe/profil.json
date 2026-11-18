@@ -1,0 +1,19 @@
+{
+  "name": "Mama cu fetița în brațe",
+  "image": "Mama cu fetita in brate.png",
+  "mouth": [],
+  "eyes": [],
+  "variants": {},
+  "kind": "om",
+  "flying": false,
+  "names": [
+    "în brațe",
+    "in brate",
+    "te legăn",
+    "te legan",
+    "la pieptul meu"
+  ],
+  "size": 1.2,
+  "looks": {},
+  "rig": {}
+}

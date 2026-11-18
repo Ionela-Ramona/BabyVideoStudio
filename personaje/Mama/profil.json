@@ -1,0 +1,21 @@
+{
+  "name": "Mama",
+  "image": "Cheerful Mother in Pink Dress.png",
+  "mouth": [],
+  "eyes": [],
+  "variants": {},
+  "kind": "om",
+  "flying": false,
+  "names": [
+    "mama",
+    "mamei",
+    "mamic",
+    "mami"
+  ],
+  "size": 1.2,
+  "looks": {
+    "palme_deschise": "palme_deschise - Cheerful Woman Ready to Clap.png",
+    "palme": "palme - Smiling Mother in Pink Floral Dress.png"
+  },
+  "rig": {}
+}

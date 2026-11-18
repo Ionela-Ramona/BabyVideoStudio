@@ -1,0 +1,76 @@
+{
+  "name": "Fetita",
+  "image": "Cheerful Girl in Pink Polka Dots.png",
+  "mouth": [],
+  "eyes": [],
+  "variants": {},
+  "kind": "om",
+  "flying": false,
+  "names": [
+    "fetita"
+  ],
+  "size": 1.0,
+  "looks": {},
+  "rig": {
+    "crestet": [
+      0.489,
+      0.0246
+    ],
+    "gat": [
+      0.489,
+      0.4199
+    ],
+    "bazin": [
+      0.489,
+      0.7215
+    ],
+    "umar_drept": [
+      0.3682,
+      0.4776
+    ],
+    "cot_drept": [
+      0.2825,
+      0.5542
+    ],
+    "mana_dreapta": [
+      0.1951,
+      0.6042
+    ],
+    "umar_stang": [
+      0.6225,
+      0.4855
+    ],
+    "cot_stang": [
+      0.7028,
+      0.559
+    ],
+    "mana_stanga": [
+      0.7871,
+      0.6056
+    ],
+    "sold_drept": [
+      0.4107,
+      0.7215
+    ],
+    "genunchi_drept": [
+      0.3977,
+      0.8227
+    ],
+    "glezna_dreapta": [
+      0.3846,
+      0.9239
+    ],
+    "sold_stang": [
+      0.5567,
+      0.7215
+    ],
+    "genunchi_stang": [
+      0.5679,
+      0.8227
+    ],
+    "glezna_stanga": [
+      0.5792,
+      0.9239
+    ]
+  }
+}

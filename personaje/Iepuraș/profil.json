@@ -1,0 +1,60 @@
+{
+  "name": "Iepuraș",
+  "image": "Iepuras_original.png",
+  "mouth": [],
+  "eyes": [],
+  "variants": {},
+  "kind": "animal",
+  "flying": false,
+  "names": [
+    "iepur"
+  ],
+  "size": 0.75,
+  "looks": {},
+  "rig": {
+    "crestet": [
+      0.6169,
+      0.0439
+    ],
+    "gat": [
+      0.6169,
+      0.5455
+    ],
+    "bazin": [
+      0.6169,
+      0.806
+    ],
+    "sold_drept": [
+      0.4434,
+      0.882
+    ],
+    "glezna_dreapta": [
+      0.4434,
+      0.9796
+    ],
+    "sold_stang": [
+      0.7737,
+      0.882
+    ],
+    "glezna_stanga": [
+      0.7737,
+      0.9796
+    ],
+    "ureche_dreapta_varf": [
+      0.2876,
+      0.0814
+    ],
+    "ureche_dreapta": [
+      0.3864,
+      0.2815
+    ],
+    "ureche_stanga_varf": [
+      0.8256,
+      0.0814
+    ],
+    "ureche_stanga": [
+      0.763,
+      0.2815
+    ]
+  }
+}

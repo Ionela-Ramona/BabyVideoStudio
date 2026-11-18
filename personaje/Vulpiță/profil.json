@@ -1,0 +1,68 @@
+{
+  "name": "Vulpiță",
+  "image": "Vulpita_original.png",
+  "mouth": [],
+  "eyes": [],
+  "variants": {},
+  "kind": "animal",
+  "flying": false,
+  "names": [
+    "vulpi"
+  ],
+  "size": 0.8,
+  "looks": {},
+  "rig": {
+    "crestet": [
+      0.5651,
+      0.0636
+    ],
+    "gat": [
+      0.5651,
+      0.5536
+    ],
+    "bazin": [
+      0.5651,
+      0.8087
+    ],
+    "sold_drept": [
+      0.3962,
+      0.8847
+    ],
+    "glezna_dreapta": [
+      0.3962,
+      0.9796
+    ],
+    "sold_stang": [
+      0.7255,
+      0.8847
+    ],
+    "glezna_stanga": [
+      0.7255,
+      0.9796
+    ],
+    "ureche_dreapta_varf": [
+      0.1613,
+      0.1004
+    ],
+    "ureche_dreapta": [
+      0.2825,
+      0.2291
+    ],
+    "ureche_stanga_varf": [
+      0.8075,
+      0.1004
+    ],
+    "ureche_stanga": [
+      0.7348,
+      0.2291
+    ],
+    "coada_varf": [
+      0.0,
+      0.6092
+    ],
+    "coada": [
+      0.2187,
+      0.7897
+    ]
+  }
+}

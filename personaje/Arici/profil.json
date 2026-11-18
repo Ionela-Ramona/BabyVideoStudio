@@ -1,0 +1,44 @@
+{
+  "name": "Arici",
+  "image": "Arici_original.png",
+  "mouth": [],
+  "eyes": [],
+  "variants": {},
+  "kind": "animal",
+  "flying": false,
+  "names": [
+    "aric"
+  ],
+  "size": 0.65,
+  "looks": {},
+  "rig": {
+    "crestet": [
+      0.4741,
+      0.1121
+    ],
+    "gat": [
+      0.4741,
+      0.5742
+    ],
+    "bazin": [
+      0.4741,
+      0.8137
+    ],
+    "sold_drept": [
+      0.3333,
+      0.8852
+    ],
+    "glezna_dreapta": [
+      0.3333,
+      0.9748
+    ],
+    "sold_stang": [
+      0.612,
+      0.8852
+    ],
+    "glezna_stanga": [
+      0.612,
+      0.9748
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "file": "logo - Cheerful Star DJ in a Cosmic Badge.png",
+  "enabled": true,
+  "mode": "always",
+  "seconds": 3.5,
+  "size_percent": 8.0,
+  "position": "top-right",
+  "fade_in": 0.7,
+  "fade_out": 0.7,
+  "opacity": 65
+}
